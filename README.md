@@ -1,4 +1,4 @@
-# David House Homework 1 due 9/17/2020
+# David House Homework 2 due 10/8/2020
 
 ## How to Navigate this Project
 

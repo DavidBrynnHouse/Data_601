@@ -38,3 +38,13 @@ ipython_config.py
 
 # End of https://www.toptal.com/developers/gitignore/api/jupyternotebooks
 >>>>>>> 3808cd3317cc5121ff13aa5f8b9d363816e41540
+
+# IPython
+profile_default/
+ipython_config.py
+
+# Remove previous ipynb_checkpoints
+#   git rm -r .ipynb_checkpoints/
+
+# End of https://www.toptal.com/developers/gitignore/api/jupyternotebooks
+>>>>>>> 3808cd3317cc5121ff13aa5f8b9d363816e41540
